@@ -9,22 +9,28 @@ This project aims to address the issue of identifying fake social media accounts
 ##Result:
 The result of the predictions of the five models ar eas below:
 SVM:
+
 ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/a53dba57-52ac-4c7f-8162-f669c909c359)
 
 Random Forest:
+
  ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc)
 
 ADA Boost:
+
  ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d)
 
 XG Boost:
+
  ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/458995cd-77ca-41f3-9208-182fd1bd94d2)
 
 Decision Tree:
+
 ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/82634960-00db-438d-9cdc-c186326eb208)
 
 
 ##Experimental results and its analysis:
+
 ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/04d5a737-d2f0-47a4-afc9-0e2c5afac844)
 ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/80959721-ec8a-4d2b-9bdc-7e929a84d1d3)
 
