@@ -14,32 +14,30 @@ This project aims to address the issue of identifying fake social media accounts
 The result of the predictions of the five models are as below:
 #### SVM:
         
-<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/74112721/a2b566e4-fc65-43ba-9232-1b1abab60dc3" width="300" height="300"> 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/74112721/a2b566e4-fc65-43ba-9232-1b1abab60dc3)
-
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/74112721/a2b566e4-fc65-43ba-9232-1b1abab60dc3" width="300" height="300"> <br>
 `Figure 4.1 Confusion Matrix of SVM Model`<br>
 
 
 #### Random Forest:
 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc)
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc" width="300" height="300"><b3>
 `Figure 4.2 Confusion Matrix of Random Forest Model`<br>
 
 
 #### ADA Boost:
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d)
+
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d" width="300" height="300"><br>
 `Figure 4.3 Confusion Matrix of ADA Boost Model`<br>
 
 #### XG Boost:
 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/458995cd-77ca-41f3-9208-182fd1bd94d2)
-
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/458995cd-77ca-41f3-9208-182fd1bd94d2" width="300" height="300"><br>
 `Figure 4.4 Confusion Matrix of SVM Model`<br>
 
 #### Decision Tree:
 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d)
 
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d" width="300" height="300"><br>
 `Figure 4.5 Confusion Matrix of Decision Tree Model`<br>
 
 
