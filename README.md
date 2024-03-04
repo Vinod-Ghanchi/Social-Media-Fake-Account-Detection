@@ -9,7 +9,9 @@ This project aims to address the issue of identifying fake social media accounts
 
 ## System Architecture Diagram:
 ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/9d008a6c-ce37-40d5-b709-89661a60eafd)<br>
-
+<img src= 
+"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
+        alt="GeeksforGeeks logo" width="300" height="300"> 
 ## Results:
 The result of the predictions of the five models are as below:
 #### SVM:
