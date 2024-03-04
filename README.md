@@ -20,7 +20,7 @@ The result of the predictions of the five models are as below:
 
 #### Random Forest:
 
-<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc" width="300" height="300"><b3>
+<img src= "https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc" width="300" height="300"><br>
 `Figure 4.2 Confusion Matrix of Random Forest Model`<br>
 
 
