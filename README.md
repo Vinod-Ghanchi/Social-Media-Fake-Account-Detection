@@ -13,7 +13,7 @@ This project aims to address the issue of identifying fake social media accounts
 ## Results:
 The result of the predictions of the five models are as below:
 #### SVM:
-<img src="(https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/a53dba57-52ac-4c7f-8162-f669c909c359)" width="200"/
+<img src="https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/a53dba57-52ac-4c7f-8162-f669c909c359" width="200"/
 
 `Figure 4.1 Confusion Matrix of SVM Model`<br>
 
