@@ -7,35 +7,35 @@ This project aims to address the issue of identifying fake social media accounts
 
 
 ## System Architecture Diagram:
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/9d008a6c-ce37-40d5-b709-89661a60eafd)
+![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/9d008a6c-ce37-40d5-b709-89661a60eafd)<br>
 
 ## Results:
 The result of the predictions of the five models are as below:
 #### SVM:
 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/a53dba57-52ac-4c7f-8162-f669c909c359)
+![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/a53dba57-52ac-4c7f-8162-f669c909c359)<br>
 `Figure 4.1 Confusion Matrix of SVM Model`<br>
 
 
 #### Random Forest:
 
- ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc)
+ ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/ec9ada62-a915-4dcf-8ce5-6301bd8254cc)<br>
 `Figure 4.2 Confusion Matrix of Random Forest Model`<br>
 
 
 #### ADA Boost:
 
- ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d)
+ ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/19d4f4b3-15e1-409c-b47b-c556401bcd8d)<br>
 `Figure 4.3 Confusion Matrix of ADA Boost Model`<br>
 
 #### XG Boost:
 
- ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/458995cd-77ca-41f3-9208-182fd1bd94d2)
+ ![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/458995cd-77ca-41f3-9208-182fd1bd94d2)<br>
 `Figure 4.4 Confusion Matrix of SVM Model`<br>
 
 #### Decision Tree:
 
-![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/82634960-00db-438d-9cdc-c186326eb208)
+![image](https://github.com/Vinod-Ghanchi/Social-Media-Fake-Account-Detection/assets/80514865/82634960-00db-438d-9cdc-c186326eb208)<br>
 `Figure 4.5 Confusion Matrix of Decision Tree Model`<br>
 
 
